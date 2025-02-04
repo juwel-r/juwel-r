@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="710" src="https://i.ibb.co.com/gFWTPQ9g/github-cover-banner.png"  />
+  <img height="auto" src="https://i.ibb.co.com/gFWTPQ9g/github-cover-banner.png"  />
 </div>
 
 ###
@@ -45,14 +45,10 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=juwel-r&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=juwel-r&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juwel-r&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=juwel-r&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=juwel-r&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -78,7 +74,6 @@
 
 ###
 
-<h5 align="left">I am also available at - <a href="mailto:juwel.jem@gmail.com">juwel.jem@gmail.com</a>
-</h5>
+<h5 align="left">I am also available at - juwel.jem@gmail.com</h5>
 
 ###
